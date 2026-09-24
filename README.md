@@ -71,3 +71,37 @@ Generated Eclipse files such as `.classpath`, `.project`, `.settings`, `bin`, an
 ## Purpose
 
 This repository is maintained as a record of my learning, practice, and coursework in **Data Structures, Algorithms, and Java**.
+
+## Quick Access
+
+### Data Structures
+
+- [Linked List - Assignment 1](./02-Linked-List/Assignment-1)
+- [Linked List - Assignment 2](./02-Linked-List/Assignment-2)
+- [Stack - Assignment 1](./04-Queue/Stack-Assignment-1)
+- [Queue - Assignment 1](./04-Queue/Queue-Assignment-1)
+- [ArrayList - Assignment 1](./06-ArrayList/Assignment-1)
+
+### HashMap and Collections
+
+- [LinkedList - Assignment 1](./09-HashMap/LinkedList-Assignment-1)
+- [LinkedList - Assignment 2](./09-HashMap/LinkedList-Assignment-2)
+- [LinkedList - Assignment 3](./09-HashMap/LinkedList-Assignment-3)
+- [LinkedList - Assignment 4](./09-HashMap/LinkedList-Assignment-4)
+- [Set Interface - Assignment 1](./09-HashMap/Set-Interface-Assignment-1)
+- [HashMap - Assignment 1](./09-HashMap/HashMap-Assignment-1)
+- [HashMap - Assignment 2](./09-HashMap/HashMap-Assignment-2)
+- [HashMap - Assignment 3](./09-HashMap/HashMap-Assignment-3)
+
+### Algorithms
+
+- [Queue Interface - Assignment 1](./12-Analysis-of-Algorithms/Queue-Interface-Assignment-1)
+- [Queue Interface - Assignment 2](./12-Analysis-of-Algorithms/Queue-Interface-Assignment-2)
+- [Linear Search - Assignment 1](./13-Searching-Algorithms/Linear-Search-Assignment-1)
+- [Binary Search - Assignment 1](./13-Searching-Algorithms/Binary-Search-Assignment-1)
+- [Bubble Sort - Assignment 1](./14-Sorting-Algorithms/Bubble-Sort-Assignment-1)
+- [Merge Sort - Assignment 1](./14-Sorting-Algorithms/Merge-Sort-Assignment-1)
+- [Brute Force - Assignment 1](./16-Comparison-of-Algorithms/Brute-Force-Assignment-1)
+- [Divide and Conquer - Assignment 1](./16-Comparison-of-Algorithms/Divide-and-Conquer-Assignment-1)
+- [Greedy Approach - Assignment 1](./16-Comparison-of-Algorithms/Greedy-Approach-Assignment-1)
+- [Dynamic Programming - Assignment 1](./16-Comparison-of-Algorithms/Dynamic-Programming-Assignment-1)
